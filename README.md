@@ -1,11 +1,11 @@
-# Master's thesis: Trajectory planning problem for detecting radioactive sources using underwater gliders
+# Trajectory planning problem for detecting radioactive sources using underwater gliders
 
-@ Instituto Superior Tecnico is upgraded and published in the Journal of Marine Science and Engineering
+This work is the master's thesis of Mr. Ibrahim, Ahmed Yehia Zakaria @ Instituto Superior Tecnico. This work has been upgraded and published in the  [Journal of Marine Science and Engineering](https://www.mdpi.com/2077-1312/13/7/1369) in July 2025
 ![results](https://github.com/user-attachments/assets/9135329c-b352-4c2e-a81e-fac08f94de52)
         The coverage trajectory in different map cities is shown, ensuring all areas within the boundary are visited.
 
 
-This work is published in the  [Journal of Marine Science and Engineering](https://www.mdpi.com/2077-1312/13/7/1369) in July 2025. The abstract is as follows:
+The abstract is as follows:
 
 In many applications, including underwater robotics, the coverage problem requires an autonomous vehicle to systematically explore a defined area while minimizing redundancy and avoiding obstacles. This paper investigates coverage path-planning strategies to enhance the efficiency of underwater gliders, particularly in maximizing the probability of detecting a radioactive source while ensuring safe navigation. We evaluate three path-planning approaches: the Traveling Salesman Problem (TSP), Minimum Spanning Tree (MST), and the Optimal Control Problem (OCP). Simulations were conducted in MATLAB R2020a, comparing processing time, uncovered areas, path length, and traversal time. Results indicate that the OCP is preferable when traversal time is constrained, although it incurs significantly higher computational costs. Conversely, MST-based approaches provide faster but fewer optimal solutions. These findings offer insights into selecting appropriate algorithms based on mission priorities, balancing efficiency and computational feasibility.
 
