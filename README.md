@@ -8,3 +8,16 @@ This work is published in the  [Journal of Marine Science and Engineering](https
 In many applications, including underwater robotics, the coverage problem requires an autonomous vehicle to systematically explore a defined area while minimizing redundancy and avoiding obstacles. This paper investigates coverage path-planning strategies to enhance the efficiency of underwater gliders, particularly in maximizing the probability of detecting a radioactive source while ensuring safe navigation. We evaluate three path-planning approaches: the Traveling Salesman Problem (TSP), Minimum Spanning Tree (MST), and the Optimal Control Problem (OCP). Simulations were conducted in MATLAB R2020a, comparing processing time, uncovered areas, path length, and traversal time. Results indicate that the OCP is preferable when traversal time is constrained, although it incurs significantly higher computational costs. Conversely, MST-based approaches provide faster but fewer optimal solutions. These findings offer insights into selecting appropriate algorithms based on mission priorities, balancing efficiency and computational feasibility.
 
 Keywords: optimal control; covering problem; path planning; search optimization
+
+
+If you use this work for your research, please cite:
+@article{ibrahim2025comparison,
+  title={Comparison of innovative strategies for the coverage problem: Path planning, search optimization, and applications in underwater robotics},
+  author={Ibrahim, Ahmed and Rego, Francisco FC and Busvelle, {\'E}ric},
+  journal={Journal of Marine Science and Engineering},
+  volume={13},
+  number={7},
+  pages={1369},
+  year={2025},
+  publisher={MDPI}
+}
