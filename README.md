@@ -11,6 +11,7 @@ Keywords: optimal control; covering problem; path planning; search optimization
 
 
 If you use this work for your research, please cite:
+```bibtex
 @article{ibrahim2025comparison,
   title={Comparison of innovative strategies for the coverage problem: Path planning, search optimization, and applications in underwater robotics},
   author={Ibrahim, Ahmed and Rego, Francisco FC and Busvelle, {\'E}ric},
