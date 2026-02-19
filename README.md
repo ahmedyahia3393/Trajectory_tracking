@@ -1,4 +1,5 @@
-# My Master's thesis "Trajectory Generation Algorithms for detecting radioactive sources using underwater gliders" @ Instituto Superior Tecnico is upgraded and published in the Journal of Marine Science and Engineering
+# My Master's thesis "Trajectory Generation Algorithm![Uploading results.gif…]()
+s for detecting radioactive sources using underwater gliders" @ Instituto Superior Tecnico is upgraded and published in the Journal of Marine Science and Engineering
 
 This work is published in the  [Journal of Marine Science and Engineering](https://www.mdpi.com/2077-1312/13/7/1369) in July 2025. The abstract is as follows:
 
