@@ -12,7 +12,7 @@ In many applications, including underwater robotics, the coverage problem requir
 
 Keywords: optimal control; covering problem; path planning; search optimization
 
-### **Funding**
+## **Funding**
 This work was supported by European Commission via Erasmus Mundus Joint Masters Degrees (EMJMD) “_Marine and Maritime intelligent robotics_” and Fundação para a Ciência e Tecnologia under the projects UIDB/04111/2020 and CTS/00066.
 
 ## **Acknowledgments**
