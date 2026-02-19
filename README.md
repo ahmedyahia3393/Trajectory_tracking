@@ -3,7 +3,7 @@
 This work is the master's thesis of Mr. Ibrahim, Ahmed Yehia Zakaria @ Instituto Superior Tecnico. This work has been upgraded and published in the  [Journal of Marine Science and Engineering](https://www.mdpi.com/2077-1312/13/7/1369) in July 2025.
 ![results](https://github.com/user-attachments/assets/9135329c-b352-4c2e-a81e-fac08f94de52)
 
-        The coverage trajectory in different map cities is shown, ensuring all areas within the boundary are visited.
+The coverage trajectory in different map cities is shown, ensuring all areas within the boundary are visited.
 
 
 The abstract is as follows:
