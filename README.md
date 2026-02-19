@@ -1,4 +1,6 @@
-# My Master's thesis "Trajectory planning problem for detecting radioactive sources using underwater gliders" @ Instituto Superior Tecnico is upgraded and published in the Journal of Marine Science and Engineering
+# Master's thesis: Trajectory planning problem for detecting radioactive sources using underwater gliders
+
+@ Instituto Superior Tecnico is upgraded and published in the Journal of Marine Science and Engineering
 ![results](https://github.com/user-attachments/assets/9135329c-b352-4c2e-a81e-fac08f94de52)
         The coverage trajectory in different map cities is shown, ensuring all areas within the boundary are visited.
 
@@ -9,13 +11,14 @@ In many applications, including underwater robotics, the coverage problem requir
 
 Keywords: optimal control; covering problem; path planning; search optimization
 
-**Funding**
+## **Funding**
 This work was supported by European Commission via Erasmus Mundus Joint Masters Degrees (EMJMD) “_Marine and Maritime intelligent robotics_” and Fundação para a Ciência e Tecnologia under the projects UIDB/04111/2020 and CTS/00066.
 
-**Acknowledgments**
+## **Acknowledgments**
+
 This work was inspired by the pioneering research of Isaac Kaminer and António Pascoal, which guided the development of the optimal-control approach adopted herein.
 
-**Citation**
+## **Citation**
 
 If you use this work for your research, please cite:
 ```bibtex
