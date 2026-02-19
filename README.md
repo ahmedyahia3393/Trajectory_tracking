@@ -10,6 +10,8 @@ In many applications, including underwater robotics, the coverage problem requir
 Keywords: optimal control; covering problem; path planning; search optimization
 
 
+** Citation**
+
 If you use this work for your research, please cite:
 ```bibtex
 @article{ibrahim2025comparison,
