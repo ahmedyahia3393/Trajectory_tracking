@@ -1,6 +1,6 @@
 # My Master's thesis "Trajectory Generation Algorithm for detecting radioactive sources using underwater gliders" @ Instituto Superior Tecnico is upgraded and published in the Journal of Marine Science and Engineering
 ![results](https://github.com/user-attachments/assets/9135329c-b352-4c2e-a81e-fac08f94de52)
-The coverage path of different map cities, ensuring all areas within the boundary are visited.
+        The coverage path of different map cities, ensuring all areas within the boundary are visited.
 
 This work is published in the  [Journal of Marine Science and Engineering](https://www.mdpi.com/2077-1312/13/7/1369) in July 2025. The abstract is as follows:
 
